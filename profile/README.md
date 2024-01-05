@@ -1,6 +1,6 @@
 # Go Hardware
 
-![ghw mascot](../images/ghw-gopher.png)
+![ghw mascot](images/ghw-gopher.png)
 
 [`ghw`](https://github.com/go-hardware/ghw) is a Go library providing hardware
 inspection and discovery for Linux and Windows. There is partial support for
